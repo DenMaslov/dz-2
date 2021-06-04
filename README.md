@@ -1,5 +1,5 @@
 # dz-2
-Fractal Sierpinski triangle 
+Fractal Sierpinski triangle, 
 recommended degree: 6
 
 ### INSTALLATION:
